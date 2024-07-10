@@ -15,15 +15,16 @@
   <img src="https://img.shields.io/badge/zig-F5D820?style=for-the-badge&logo=zig&logoColor=white" alt="Zig"/>
 </p>
 <!-- resume & website -->
-<p>
-  <samp align="center">
+<p align="center">
+  <samp>
     See my resume and website below
   </samp>
 </p>
-<p>
+<p align="center">
   <a align="center" href="https://milelime.github.io/">
     Website
-  </a>
+  </a></br>
   <a align="center" href="https://docs.google.com/document/d/1tqQhl0NX7_ps7Hr1R-JxxTleX-eR1mCcwlqTeu-bY9c/edit?usp=drive_link">
     Resume
-  </a></p>
+  </a>
+</p>
