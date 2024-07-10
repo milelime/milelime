@@ -12,4 +12,5 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node"/>
   <img src="https://img.shields.io/badge/arch-4287F5?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch"/>
+  <img src="https://img.shields.io/badge/zig-F5D820?style=for-the-badge&logo=zig&logoColor=white" alt="Zig"/>
 </p>
