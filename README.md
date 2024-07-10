@@ -19,6 +19,10 @@
   <samp align="center">
     See my resume and website below
   </samp>
-  <a href="https://milelime.github.io/">Website</a>
-  <a href="https://docs.google.com/document/d/1tqQhl0NX7_ps7Hr1R-JxxTleX-eR1mCcwlqTeu-bY9c/edit?usp=drive_link">Resume</a>
+  <samp align="center" href="https://milelime.github.io/">
+    Website
+  </samp>
+  <samp align="center" href="https://docs.google.com/document/d/1tqQhl0NX7_ps7Hr1R-JxxTleX-eR1mCcwlqTeu-bY9c/edit?usp=drive_link">
+    Resume
+  </samp>
 </p>
