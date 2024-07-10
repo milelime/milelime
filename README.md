@@ -19,6 +19,7 @@
   <samp>
     See my resume and website below
   </samp>
+</p>
+
   [Website](https://milelime.github.io/)
   [Resume](https://docs.google.com/document/d/1tqQhl0NX7_ps7Hr1R-JxxTleX-eR1mCcwlqTeu-bY9c/edit?usp=drive_link)
-</p>
