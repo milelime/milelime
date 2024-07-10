@@ -14,3 +14,11 @@
   <img src="https://img.shields.io/badge/arch-4287F5?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch"/>
   <img src="https://img.shields.io/badge/zig-F5D820?style=for-the-badge&logo=zig&logoColor=white" alt="Zig"/>
 </p>
+<!-- resume & website -->
+<p>
+  <samp>
+    See my resume and website below
+  </samp>
+  [Website](https://milelime.github.io/)
+  [Resume](https://docs.google.com/document/d/1tqQhl0NX7_ps7Hr1R-JxxTleX-eR1mCcwlqTeu-bY9c/edit?usp=drive_link)
+</p>
