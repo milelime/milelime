@@ -24,7 +24,7 @@
   <a align="center" href="https://milelime.github.io/" target="_blank">
     Website
   </a></br>
-  <a align="center" href="https://docs.google.com/document/d/1tqQhl0NX7_ps7Hr1R-JxxTleX-eR1mCcwlqTeu-bY9c/edit?usp=drive_link" target="_blank">
+  <a align="center" href="https://drive.google.com/file/d/1t52WKwMsNBaOGjbnzWWy8sG8zhkZkneD/view?usp=sharing" target="_blank">
     Resume
   </a>
 </p>
