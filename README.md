@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    Frontend developer, NodeJS enjoyer, data science background, musician. Currently contracted as a full stack Node developer.
+    Frontend developer, NodeJS enjoyer, data science background, musician. Currently contracted as a full stack Node.js developer.
   </samp>
 </p>
 <!-- badges -->
@@ -24,7 +24,7 @@
   <a align="center" href="https://milelime.github.io/">
     Website
   </a></br>
-  <a align="center" href="https://docs.google.com/document/d/1tqQhl0NX7_ps7Hr1R-JxxTleX-eR1mCcwlqTeu-bY9c/edit?usp=drive_link">
+  <a align="center" href="https://drive.google.com/file/d/1t52WKwMsNBaOGjbnzWWy8sG8zhkZkneD/view?usp=sharing">
     Resume
   </a>
 </p>
