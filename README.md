@@ -21,7 +21,7 @@
   </samp>
 </p>
 <p align="center">
-  <a align="center" href="https://milelime.github.io/" target="_blank">
+  <a align="center" href="https://alexeyayzin.com/" target="_blank">
     Website
   </a></br>
   <a align="center" href="https://drive.google.com/file/d/1t52WKwMsNBaOGjbnzWWy8sG8zhkZkneD/view?usp=sharing" target="_blank">
