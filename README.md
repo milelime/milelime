@@ -24,7 +24,7 @@
   <a align="center" href="https://alexeyayzin.com/" target="_blank">
     Website
   </a></br>
-  <a align="center" href="https://drive.google.com/file/d/1t52WKwMsNBaOGjbnzWWy8sG8zhkZkneD/view?usp=sharing" target="_blank">
+  <a align="center" href="https://drive.google.com/file/d/1v3nkeoekitz-8ASYh7WB6cqWhjWQ8j0l/view?usp=sharing" target="_blank">
     Resume
   </a>
 </p>
